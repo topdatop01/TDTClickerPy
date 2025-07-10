@@ -1,4 +1,4 @@
-# TDTClickerPy1
+# TDTClickerPyRu1
 
 ## Информация
 
